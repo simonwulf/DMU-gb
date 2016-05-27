@@ -33,3 +33,8 @@
 
 # Gameboy ROMs
 *.gb
+
+# GBDK build files
+*.lst
+*.map
+*.sym
